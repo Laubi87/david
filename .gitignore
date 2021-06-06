@@ -6,3 +6,4 @@ db.sqlite3
 media
 davidvo-assets
 .DS_Store
+.env
